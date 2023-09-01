@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+p{
+    font-size: 1.3rem;
+    padding: 1.3rem;
+    width: 100%;
+}
+input{
+    background-color: rgb(185, 190, 198);
+    width: rgb(151, 209, 232);
+    margin: 0.8rem;
+    padding: 0.5rem;
+    
+
+}
